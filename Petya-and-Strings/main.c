@@ -3,8 +3,8 @@
 int main()
 {
 
-    char x[100];
-    char y[100];
+    char x[200];
+    char y[200];
 
     scanf("%s", x);
     scanf("%s", y);
